@@ -2,6 +2,9 @@
 Program in C to recover JPEGs from a memory card. CS50 Problem Set 4.
 
 
+![recovered_image](https://github.com/cmartinezal/image-recover/assets/84383847/ec101c23-3203-41ff-bb0d-f41075dad3e7)
+
+
 ## Problem to Solve
 
 In anticipation of this problem, we spent the past several days taking photos around campus, all of which were saved on a digital camera as JPEGs on a memory card. Unfortunately, we somehow deleted them all! Thankfully, in the computer world, “deleted” tends not to mean “deleted” so much as “forgotten.” Even though the camera insists that the card is now blank, we’re pretty sure that’s not quite true. Indeed, we’re hoping (er, expecting!) you can write a program that recovers the photos for us!
